@@ -1,4 +1,4 @@
-# 👋 Hi, I'm James York III
+# 👋 Hi, I'm James York
 
 I'm a U.S. Army veteran, Senior Project Manager, and self-taught software builder focused on delivering smart infrastructure solutions across municipal, airport, college, and hospital environments (MACH).
 
