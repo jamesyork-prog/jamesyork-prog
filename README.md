@@ -1,6 +1,6 @@
 # 👋 Hi, I'm James York
 
-I'm a U.S. Army veteran, Senior Project Manager, and self-taught software builder focused on delivering smart infrastructure solutions across municipal, airport, college, and hospital environments (MACH).
+I'm a U.S. Army veteran, Senior Project Manager, and self-taught software builder focused on delivering smart infrastructure solutions.
 
 ## 🚀 What I'm Working On
 - Scaling national deployments with Flash
@@ -8,7 +8,8 @@ I'm a U.S. Army veteran, Senior Project Manager, and self-taught software builde
 - Learning full-stack web dev and automation workflows
 
 ## 💡 Tech I'm Learning
-- JavaScript / React
+- JavaScript / React / Tailwind
+- Google ADK
 - Git & GitHub for team collaboration
 - AI-powered tools for productivity and innovation
 
