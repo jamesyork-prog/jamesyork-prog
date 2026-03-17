@@ -1,55 +1,58 @@
-# 👋 Hi, I'm James York
+# James York
 
-I'm a software builder and AI operations specialist focused on creating practical, production-ready AI infrastructure and automation solutions.
+Senior Project Manager turned AI Operations engineer. I build production agentic systems that solve real business problems.
 
-## 🤖 What I'm Building
+## What I Build
 
-**AI Infrastructure Stack**
-- Production-grade Raspberry Pi cluster running n8n, MLflow, Qdrant, and Phi-3 LLM
-- Enterprise security with Cloudflare tunnels, nginx reverse proxy, and multi-layer auth
-- Real-time hardware monitoring with custom Python scripts, OLED displays, and LED indicators
-- 99.9% uptime with automated thermal management and power distribution
+Most of my work lives in private repositories (company IP), but here's the shape of it:
 
-**AI Operations Frameworks**
-- **CRAFT Cycles**: 5-step methodology for systematic AI integration in business processes
-- **MASTER Method**: Advanced prompting framework for optimal LLM interactions
-- **Task Hierarchy**: Strategic framework for AI task assignment and expectation management
+**Production Agentic Automation**
+- Designed and shipped an autonomous AI agent that processes enterprise support tickets end-to-end: classifying, analyzing, deciding, and executing actions through third-party APIs with no human in the loop
+- Built the webhook orchestration layer, confidence gating, and approval workflows that make autonomous operation safe for production
+- Killed an expensive vendor contract by delivering a working system in 40 days using spec-driven development
 
-## 💻 Current Tech Stack
+**Multi-Service Platform Engineering**
+- Architecting a full-stack operations platform: FastAPI backend, React frontend, PostgreSQL, Redis, OAuth/OIDC auth, WebSocket real-time updates
+- 7-service Docker Compose environment with department-level dashboards, agent monitoring, audit trails, and role-based access control
+- Designed for production deployment on AWS (EC2, ALB, Secrets Manager)
 
-**Languages & Frameworks**
-- Python (AI agents, hardware monitoring, automation)
-- JavaScript / React / TailwindCSS (learning full-stack development)
-- Docker & Docker Compose (service orchestration)
+**Local AI Research Lab**
+- Dedicated hardware for fine-tuning and local inference experiments
+- Raspberry Pi cluster for hosting open-source tools, vector databases, and test environments
+- Exploring fine-tuning economics, RAG architectures, and edge AI deployment
 
-**AI & Infrastructure**
-- Enterprise LLMs: GPT-4, Gemini, Claude
-- Vector Databases: Qdrant deployment and management
-- ML Ops: MLflow experiment tracking
-- Workflow Automation: n8n, Zapier AI Agents
-- Hardware: Raspberry Pi GPIO programming, I2C communication
+## How I Work
 
-**DevOps & Monitoring**
-- nginx reverse proxy configuration
-- systemd service management  
-- Cloudflare tunnels for secure access
-- Real-time system monitoring and alerting
+I use AI agents as implementation partners, and I'm direct about that. Here's what that actually looks like:
 
-## 🚀 What I'm Learning
-- Advanced React patterns and component architecture
-- Python optimization for AI agent development
-- Enterprise AI deployment and governance
-- Full-stack web development for AI-powered applications
+- I architect systems, write technical specifications, and design the overall structure
+- I use spec-driven development (SDD) and test-driven development (TDD) to define what "done" means before any code gets written
+- AI coding agents (Claude Code, Kiro) implement against those specs while I review, course-correct, and handle the integration work
+- I maintain the feedback loops, steering documents, and quality gates that keep AI-generated code production-grade
 
-## 🎯 Current Focus
-- Building AI-first workflows that deliver measurable business outcomes
-- Developing enterprise AI adoption strategies and implementation frameworks
-- Creating production-ready AI infrastructure that bridges technical capability with business value
+I understand the code, the architecture, and the tradeoffs. The AI handles velocity. I handle direction, quality, and accountability.
 
-## 📫 Let's Connect
-- LinkedIn: [linkedin.com/in/james-yorkiii](https://www.linkedin.com/in/james-yorkiii)
-- GitHub: [@jamesyork-prog](https://github.com/jamesyork-prog)
+## Tech Stack
+
+**Languages:** Python (primary), JavaScript/TypeScript (frontend)
+**Backend:** FastAPI, PostgreSQL, Redis, Alembic, WebSockets
+**Frontend:** React, TailwindCSS, Vite
+**Infrastructure:** Docker Compose, AWS (EC2, ALB, Secrets Manager), Authentik (OAuth/OIDC)
+**AI/ML:** Anthropic Claude, Google Gemini, structured output, model cascading, confidence scoring
+**Dev Tools:** Claude Code (Opus), Kiro IDE, uv, Git worktrees, Linear
+**Hardware:** Apple Silicon (128GB unified), Raspberry Pi cluster, 3D printer (Bambu Labs X1C)
+
+## Background
+
+7 years in the Army National Guard, 5.5 with the 19th Special Forces Group as a CBRN specialist supporting ODAs. Before the AI pivot, I advanced from cable installer to Director of Implementations to Senior PM managing municipal and airport parking operations.
+
+The military background shows up in how I work: systematic execution, clear communication, and a bias toward shipping.
+
+## Connect
+
+- [LinkedIn](https://www.linkedin.com/in/james-yorkiii)
+- [GitHub](https://github.com/jamesyork-prog)
 
 ---
 
-*Building AI infrastructure that actually works in production.*
+*Building AI systems that run in production.*
