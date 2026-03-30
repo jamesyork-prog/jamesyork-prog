@@ -7,9 +7,8 @@ Senior Project Manager turned AI Operations engineer. I build production agentic
 Most of my work lives in private repositories (company IP), but here's the shape of it:
 
 **Production Agentic Automation**
-- Designed and shipped an autonomous AI agent that processes enterprise support tickets end-to-end: classifying, analyzing, deciding, and executing actions through third-party APIs with no human in the loop
+- Designed an autonomous AI agent that processes enterprise support tickets end-to-end: classifying, analyzing, deciding, and executing actions through third-party APIs
 - Built the webhook orchestration layer, confidence gating, and approval workflows that make autonomous operation safe for production
-- Killed an expensive vendor contract by delivering a working system in 40 days using spec-driven development
 
 **Multi-Service Platform Engineering**
 - Architecting a full-stack operations platform: FastAPI backend, React frontend, PostgreSQL, Redis, OAuth/OIDC auth, WebSocket real-time updates
