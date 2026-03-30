@@ -29,7 +29,7 @@ I use AI agents as implementation partners, and I'm direct about that. Here's wh
 - AI coding agents (Claude Code, Kiro) implement against those specs while I review, course-correct, and handle the integration work
 - I maintain the feedback loops, steering documents, and quality gates that keep AI-generated code production-grade
 
-I understand the code, the architecture, and the tradeoffs. The AI handles velocity. I handle direction, quality, and accountability.
+I understand the code, the architecture, and the tradeoffs while AI handles velocity. I handle direction, quality, and accountability.
 
 ## Tech Stack
 
@@ -41,11 +41,6 @@ I understand the code, the architecture, and the tradeoffs. The AI handles veloc
 **Dev Tools:** Claude Code (Opus), Kiro IDE, uv, Git worktrees, Linear
 **Hardware:** Apple Silicon (128GB unified), Raspberry Pi cluster, 3D printer (Bambu Labs X1C)
 
-## Background
-
-7 years in the Army National Guard, 5.5 with the 19th Special Forces Group as a CBRN specialist supporting ODAs. Before the AI pivot, I advanced from cable installer to Director of Implementations to Senior PM managing municipal and airport parking operations.
-
-The military background shows up in how I work: systematic execution, clear communication, and a bias toward shipping.
 
 ## Connect
 
@@ -54,4 +49,4 @@ The military background shows up in how I work: systematic execution, clear comm
 
 ---
 
-*Building AI systems that run in production.*
+
